@@ -12,9 +12,10 @@ Jan Aakjær 2018
         <link rel="stylesheet" type="text/css" href="css/styles.css">
     </head>  <!-- HEAD -->
     <body>
+        <?php include_once 'header.php';?>
         <section>
-            <h1>Matematiske formler</h1>
-            <h2>Økonomi</h2>
+            <h2>Matematiske formler</h2>
+            <h3>Økonomi</h3>
             <ul>
                 <li> <a href="formelsamling/economy-procent.php">Procent</a> </li>
                 <li> <a href="formelsamling/economy-interest">Rente</a> </li>
@@ -32,8 +33,6 @@ Jan Aakjær 2018
             </ul>
            
         </section>
-        <?php
-        // put your code here
-        ?>
+        <?php include_once 'footer.php'; ?>
     </body>  <!-- BODY -->
 </html>  <!-- HTML -->

@@ -12,11 +12,10 @@ Jan Aakjær 2018
         <link rel="stylesheet" type="text/css" href="css/styles.css">
     </head>  <!-- HEAD -->
     <body>
+        <?php include_once 'header.php';?>
         <section>
-            <h1>Boilerplate</h1>
+            <h2>Boilerplate</h2>
         </section>
-        <?php
-        // put your code here
-        ?>
+        <?php include_once 'footer.php';?>
     </body>  <!-- BODY -->
 </html>  <!-- HTML -->
