@@ -1,0 +1,23 @@
+/*
+    Created on : 14-04-2018, 13:39:47
+    Author     : Jan Aakjær <jan.aakjaer at jan-aakjaer.dk>
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #fffff0;  /* råhvid (æggeskal) baggrundsfarve */
+}
+
+section {
+    background-color: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
