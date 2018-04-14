@@ -10,7 +10,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: #fffff0;  /* råhvid (æggeskal) baggrundsfarve */
+    background-color: lightgray; 
 }
 
 section {
@@ -18,6 +18,13 @@ section {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+    padding: 15px;
+}
+
+header, footer {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 

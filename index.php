@@ -17,19 +17,19 @@ Jan Aakjær 2018
             <h2>Matematiske formler</h2>
             <h3>Økonomi</h3>
             <ul>
-                <li> <a href="formelsamling/economy-procent.php">Procent</a> </li>
-                <li> <a href="formelsamling/economy-interest">Rente</a> </li>
-                <li> <a href="formelsamling/economy-growth">Vækst</a> </li>
-                <li> <a href="formelsamling/economy-currency">Fremmed valuta</a> </li>
+                <li> <a href="formelsamling/economy-percent.php">Procent</a> </li>
+                <li> <a href="formelsamling/economy-interest.php">Rente</a> </li>
+                <li> <a href="formelsamling/economy-growth.php">Vækst</a> </li>
+                <li> <a href="formelsamling/economy-currency.php">Fremmed valuta</a> </li>
                 
             </ul>
             <h2>Geometri</h2>
             <ul>
                 <li> <a href="formelsamling/geometri-begreb.php">Begreber</a> </li>
-                <li> <a href="formelsamling/geometri-areal">Areal</a> </li>
-                <li> <a href="formelsamling/geometri-rumfang">Rumfang og overflade</a> </li>
-                <li> <a href="formelsamling/geometri-flytninger">Flytninger</a> </li>
-                <li> <a href="formelsamling/geometri-tegning">Tegning</a> </li>
+                <li> <a href="formelsamling/geometri-areal.php">Areal</a> </li>
+                <li> <a href="formelsamling/geometri-rumfang.php">Rumfang og overflade</a> </li>
+                <li> <a href="formelsamling/geometri-flytninger.php">Flytninger</a> </li>
+                <li> <a href="formelsamling/geometri-tegning.php">Tegning</a> </li>
             </ul>
            
         </section>
